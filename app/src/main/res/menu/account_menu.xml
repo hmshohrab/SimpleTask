@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/navCreateTaskId"
+        android:icon="@drawable/ic_to_do_list"
+        android:title="Create Task" />
+    <item
+        android:id="@+id/navGetRefCodeId"
+        android:icon="@drawable/ic_to_do_list"
+        android:title="Remove Task" />
+
+
+</menu>

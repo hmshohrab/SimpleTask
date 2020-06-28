@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Task Manager</string>
+
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+
+
+    <string name="shareMessage">Very Helpful App for Every Students, Teachers and Staffs. Download Now: https://play.google.com/store/apps/details?id=</string>
+
+    <string name="text_plain">text/plain</string>
+
+    <string name="marketUri">market://details?id=</string>
+    <string name="marketUrl">http://play.google.com/store/apps/details?id=</string>
+
+
+    <string name="no_timers">No Timers to show. Get started by adding one.</string>
+    <string name="event_notification">Event Notification</string>
+    <string name="clock_format">EE, MMM dd</string>
+    <string name="click_to_add_event">Click + to add an event</string>
+    <string name="normal_event">Normal Event</string>
+    <string name="timer_state_to_reach"></string>
+    <string name="timer_state_to_end">to End</string>
+    <string name="percent" translatable="false">%1$1.1f%%</string>
+    <string name="day">D</string>
+    <string name="hour">H</string>
+    <string name="minute">M</string>
+    <string name="second">S</string>
+    <string name="date">Date</string>
+    <string name="remind_unit_now">now</string>
+    <string name="remind_title">%1$s ended</string>
+    <string name="show_completed_events">Show Completed Events</string>
+    <string name="export_to_json">Export To Json</string>
+    <string name="completed_events">Completed Events</string>
+    <plurals name="remind_unit_minute">
+        <item quantity="one">in %1$d minute</item>
+        <item quantity="other">in %1$d minutes</item>
+    </plurals>
+    <plurals name="remind_unit_hour">
+        <item quantity="one">in %1$d hour</item>
+        <item quantity="other">in %1$d hours</item>
+    </plurals>
+    <plurals name="remind_unit_day">
+        <item quantity="one">in %1$d day</item>
+        <item quantity="other">in %1$d days</item>
+    </plurals>
+    <plurals name="remind_unit_week">
+        <item quantity="one">in %1$d week</item>
+        <item quantity="other">in %1$d weeks</item>
+    </plurals>
+    <plurals name="remind_unit_second">
+        <item quantity="one">%1$d second</item>
+        <item quantity="other">%1$d seconds</item>
+    </plurals>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2020. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  ~ Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
+  ~ Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
+  ~ Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
+  ~ Vestibulum commodo. Ut rhoncus gravida arcu.
+  -->
+
+<resources>
+    <color name="colorPrimary">#242134</color>
+    <color name="colorPrimaryLite">#676091</color>
+    <color name="colorPrimaryDark">#242134</color>
+    <color name="colorAccent">#292443</color>
+    <color name="white">#FFFFFF</color>
+
+
+    <color name="black_light">#20000000</color>
+    <color name="white_secondary">#b2ffffff</color>
+    <color name="black_secondary">#8a000000</color>
+    <color name="red_500">#F44336</color>
+
+    <color name="yellow_600">#FDD835</color>
+    <color name="yellow_800">#F9A825</color>
+    <color name="yellow_200">#FFF59D</color>
+    <color name="yellow_500">#FFEB3B</color>
+    <color name="yellow_300">#FFF176</color>
+
+
+    <color name="teal_700">#00796b</color>
+    <color name="teal_800">#00695C</color>
+    <color name="teal_600">#00897B</color>
+    <color name="teal_200">#80CBC4</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="teal_50">#E0F2F1</color>
+    <color name="black_primary">#de000000</color>
+    <color name="black_negative">#61000000</color>
+</resources>
