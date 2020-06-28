@@ -4,7 +4,7 @@
 ### This app builds with: 
 
 - Kotlin
-- MVI architecture
+- MVVM architecture
 - Repository pattern
 - Rxjava2 
 - Room Persistence DB
