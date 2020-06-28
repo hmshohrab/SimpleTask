@@ -7,7 +7,7 @@
 
 
 
-<a href="https://raw.githubusercontent.com/hmshohrab/SimpleTask/master/app/release/SimpleTask.apk">Download Demo Apk:</a>
+<a href="https://raw.githubusercontent.com/hmshohrab/SimpleTask/master/app/release/SimpleTask.apk?token=ALNFVHXCVCYKWJHUJ7M732C67BCD4">Download Demo Apk:</a>
 
 
 
