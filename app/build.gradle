@@ -22,7 +22,7 @@ android {
 
     buildTypes {
         debug {
-            buildConfigField "String", "BASE_URL", "\"https://raw.githubusercontent.com/shafayathossain/helloworld/master/\""
+
             buildConfigField "String", "DB_NAME", "\"app_db\""
             buildConfigField("String", "PREF_NAME", "\"com.easycoder.simpletask.pref\"")
         }
